@@ -1,0 +1,15 @@
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\obj\Debug\net5.0\ClassesExercise1Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\obj\Debug\net5.0\ClassesExercise1Console.AssemblyInfoInputs.cache
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\obj\Debug\net5.0\ClassesExercise1Console.AssemblyInfo.cs
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\obj\Debug\net5.0\ClassesExercise1Console.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\bin\Debug\net5.0\ClassesExercise1Console.exe
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\bin\Debug\net5.0\ClassesExercise1Console.deps.json
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\bin\Debug\net5.0\ClassesExercise1Console.runtimeconfig.json
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\bin\Debug\net5.0\ClassesExercise1Console.runtimeconfig.dev.json
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\bin\Debug\net5.0\ClassesExercise1Console.dll
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\bin\Debug\net5.0\ref\ClassesExercise1Console.dll
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\bin\Debug\net5.0\ClassesExercise1Console.pdb
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\obj\Debug\net5.0\ClassesExercise1Console.dll
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\obj\Debug\net5.0\ref\ClassesExercise1Console.dll
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\obj\Debug\net5.0\ClassesExercise1Console.pdb
+C:\Users\Billy\source\repos\ClassesExercise1\ClassesExercise1Console\obj\Debug\net5.0\ClassesExercise1Console.genruntimeconfig.cache
